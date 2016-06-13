@@ -186,6 +186,7 @@ besides email also works with Evernote, Google Groups, Blogger, and more
 a free web alternative to PowerPoint and Keynote in Ruby
 
 - Templates (github: [`slideshow-templates`](https://github.com/slideshow-templates))
+- Reveal.js support allow markdown to be add to it slide via [plugin](https://github.com/hakimel/reveal.js/tree/master/plugin/markdown) called [`marked.js`](https://github.com/chjj/marked) by Christopher Jeffrey - a markdown parser and [`markdown.js`](https://github.com/hakimel/reveal.js/blob/master/plugin/markdown/markdown.js). The code can be embedded or loaded form external `.md` _file_. 
 
 
 
